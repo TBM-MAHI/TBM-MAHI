@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TASNIMUL-MAHI
-- 👀 I’m interested in JavaScript,HTML-css etc.
-- 🌱 I’m currently learning ReactJS,Solidity,Web3.
+- 👀 I’m interested in Backend Programming but also like Frontend developing.
+- 🌱 I’m currently learning Javascript, HTML-CSS, ReactJS, WEB3 Stuff- Solidity, SmartContract, Blockchain.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? text me on twitter!
 
