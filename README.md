@@ -7,8 +7,8 @@ Full Stack Developer
 Hi, I’m Mahi. I’m a full stack developer. I'm more interested in Backend Programming but also like Frontend developing. I have also experience in Blockchain WEB3 Tech.
 
 * ✉️  You can contact me at [tasnimulmahi1998@gmail.com](mailto:tasnimulmahi1998@gmail.com)
-* 🚀  I'm currently working on [ERC-20 Token Exchange](http://github.com/TBM-MAHI/Implementing-ERC-20-Token-Exchange).
-* 🧠  I'm learning ReactJS , NodeJS.
+* 🚀  I'm currently working on [A Fully Functional E-commerce Website](https://github.com/TBM-MAHI/ReactApp-crown-clothing).
+* 🧠  I'm learning MERN Stack.
 * 🤝  I'm open to collaborating on WEB3 Projects.
 * 👌   I Have a Programming tutorial YouTube channel.
 ### Skills 👨‍💻
