@@ -9,7 +9,7 @@ Hi, I’m Mahi. I’m a full stack developer. I'm more interested in Backend Pro
 * ✉️  You can contact me at [tasnimulmahi1998@gmail.com](mailto:tasnimulmahi1998@gmail.com)
 * 🚀  I'm currently working on [A Fully Functional E-commerce Website](https://github.com/TBM-MAHI/ReactApp-crown-clothing).
 * 🧠  I'm learning MERN Stack.
-* 🤝  I'm open to collaborating on WEB3 Projects.
+* 🤝  I'm open to collaborating on any Projects.
 * 👌   I Have a Programming tutorial YouTube channel.
 ### Skills 👨‍💻
 
@@ -35,8 +35,8 @@ Hi, I’m Mahi. I’m a full stack developer. I'm more interested in Backend Pro
 <!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
 ### WEB3
