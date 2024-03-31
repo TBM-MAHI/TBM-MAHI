@@ -59,6 +59,7 @@ Hi, I’m Mahi. I’m a full stack developer. I'm more interested in Backend Pro
 ### Badges
 
 <b>My GitHub Stats</b>
+![](https://komarev.com/ghpvc/?username=TBM-MAHI)
 
 <a href="http://www.github.com/TBM-MAHI"><img src="https://github-readme-stats.vercel.app/api?username=TBM-MAHI&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TBM-MAHI's GitHub stats" /></a>
 
